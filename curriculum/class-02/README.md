@@ -34,9 +34,9 @@ Explore more advanced Javascript development patterns using ES6 Classes, Inherit
 
 ## Repl.it
 
-[This](https://repl.it/@calvincheng919/this)
-[BindCallApply](https://repl.it/@calvincheng919/BindCallApply)
-[Warmup](https://repl.it/@calvincheng919/warmup)
+[This](https://repl.it/@calvincheng919/this)  
+[BindCallApply](https://repl.it/@calvincheng919/BindCallApply)  
+[Warmup](https://repl.it/@calvincheng919/warmup)  
 
 ## Lightning Talks - Starting Jan 13
 
