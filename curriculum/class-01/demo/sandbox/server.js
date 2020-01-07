@@ -2,7 +2,7 @@
 
 const express = require('express');
 const app = express();
-const codeObj = require('./myFunction.js');
+const codeObj = require('./myFunction.js.js');
 
 const obj = { name: 'test person', age: 48}; 
 
