@@ -14,7 +14,6 @@ class Food {
     this.database = [];
   }
 
-//  CRUD
 
   get(id) {
     let response = id? this.database.filter( record => record.id ===id ): this.database;
