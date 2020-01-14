@@ -17,7 +17,6 @@ Lightning Talk Schedule
 
 >Jan 27 - Lindsay - Facade Pattern  
 >Jan 28 - Travis - Singleton Pattern  
->Jan 27 - Natalie - Proxy Pattern  
->Jan 28 - Trevor - State Pattern  
->Jan 29 - Doug - Behavior Driven Development, Acceptance Test Driven Development (BDD, ATDD)  
->Jan 30 - Nathan - SCRUM, Agile, Waterfall  
+>Jan 29 - Natalie - Proxy Pattern  
+>Jan 30 - Trevor - State Pattern  
+>Jan 31 - Doug - Behavior Driven Development, Acceptance Test Driven Development (BDD, ATDD)  
