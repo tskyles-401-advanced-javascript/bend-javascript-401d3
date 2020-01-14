@@ -8,7 +8,7 @@ Lightning Talk Schedule
 
 **Week 3**
 >Jan 20 - Travis - Interface segregation - SOLID Principles   
->Jan 21 - Natalie - Dependency Inversion - SOLID Principles
+>Jan 21 - Natalie - Dependency Inversion - SOLID Principles  
 >Jan 22 - Trevor - Strategy Pattern  
 >Jan 23 - Conor - Observer Pattern  
 >Jan 24 - David - Momento Pattern  
