@@ -8,25 +8,30 @@ Refer to *Getting Started*  in the [lab submission instructions](../../../refere
 
 ## Getting Started
 
-Starter code has been provided for you in the `/lab/starter-code` folder.
-
-Open [Code Sandbox](http://codesandbox.io) and Create a new application. When prompted, choose "From GitHub" and then paste in the URL to today's starter code folder from your fork of the class repository.
+Open [Code Sandbox](http://codesandbox.io) and Create a new React application.
 
 You will be submitting the URL to this working sandbox as part of your assignment.
 
 ## Requirements
 
-### Modularize and Refactor
+Write a **counter** application with the following features
 
-Refactor the application given by first modularizing it, and then altering it's basic functionality of generating a random number into a proper counter application that tracks a number based on button clicks.
+- A Header with the style and text of your choosing
+- A Footer with the style and text of your choosing
+- A Count Display that starts at 0 and updates as the count changes
+- An Increment Button that increases the count by 1
+- An Decrement Button that decreases the count by 1
 
-- Move the `Header` and `Footer` components to separate files
-- Properly `export` them as defaults
-- Import them into the `App` Component using ES6 `import` statement
-- Rename the `Main` component to `Counter` and change the `App` component to render it using its new name
-- Change the button's click handler to increment the number in state by 1 instead of returning a random number.
-- Add a second button that, when clicked, would decrement that counter
-- Add a form with an input field. When a valid number is entered into the field, reset the counter to the entered number
+### Implementation Details
+
+- Write an `App` component that serves as the container for all sub-components of this application
+- The `Header`, `Footer`, and `Counter` components should be managed in separate files/modules
+  - Properly `export` them as defaults
+  - Import them into the `App` Component using ES6 `import` statement
+- In the `Counter` component, manage state (current count) appropriately
+  - Start the value at 0
+  - Increase/Decrease the count by handling clicks on each of the buttons in the component
+  - Ensure that the display of the current count happens dynamically with the state changes
 
 ### Design Implementation
 
@@ -42,14 +47,13 @@ Refactor the application given by first modularizing it, and then altering it's 
 
 ### Stretch Goals
 
-- Add and style some additional content in the header
-  - A horizontal menu pinned to the right
-  - A logo pinned to the left
-  - Your `<h1>` aligned center between them.
-- Add and style some additional content in the footer
-  - 3 Columns of bullet points/text, well spaced and styled
-
+- Keep track of the "polarity" of the `count` and change your style accordingly
+  - Be creative about how the display might change when the count is `> 0` or `< 0`?
+- Add a form with an input field.
+  - When a valid number is entered into the field, set the counter to the entered number and start the counting from there
 
 ### Assignment Submission Instructions
 
-Refer to the the [lab submission instructions](../../../reference/submission-instructions/labs/README.md) for the complete lab submission process and expectations
+Refer to the the [Submitting React Apps Lab Submission Instructions](../../../reference/submission-instructions/labs/react-apps.md) for the complete lab submission process and expectations
+
+> NOTE: For this assignment, **testing is not required**
