@@ -1,15 +1,17 @@
-#  DS&A, Designs, Comp Sci, Recap
+# Module 5: DS&A / Recap
+
+Recap module 5 concepts and dive into DS&A by implementing a new Data Structure
 
 ## Learning Objectives
 
-## Outline
-* :05 **Housekeeping/Recap**
-* :30 **Whiteboard/DSA Review**
-* :15 **Lightning Talk**
-* Break
-* :30 **CS/UI Concepts** -
-* :20 **Code Review**
-* Break
-* :60 **Main Topic**
+### Students will be able to
 
+#### Describe and Define
 
+- Data Structure Implementation -  <!-- To Be Completed By Instructor -->
+
+#### Execute
+
+## Today's Outline
+
+<!-- To Be Completed By Instructor -->
