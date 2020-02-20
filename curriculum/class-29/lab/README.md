@@ -1,6 +1,6 @@
 # LAB - Routing and Component Composition
 
-Implement routing and composed components into the To Do Application.
+Implement routing and composed components into the RESTy Application.
 
 ## Before you begin
 
