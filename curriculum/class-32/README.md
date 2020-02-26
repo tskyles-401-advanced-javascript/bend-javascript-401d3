@@ -15,6 +15,6 @@
 
 - Understand, Use, Create Custom React Hooks
   - Form State
-  - Fetching API Data
+  - Fetching API Data (lab)
   - `useEffect()` usage with connections
 
